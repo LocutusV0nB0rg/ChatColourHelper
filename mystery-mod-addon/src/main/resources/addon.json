@@ -1,0 +1,7 @@
+{
+  "name" : "ChatColourHelper",
+  "version" : "1.0.0",
+  "description" : "Mit diesem Addon kann ein automatischer Prefix vor jede Chatnachricht gesetzt werden.",
+  "authors"  : ["LocutusVonBorg"],
+  "mainClass" : "borg.locutus.chatcolourhelper.ChatColourHelperAddon"
+}

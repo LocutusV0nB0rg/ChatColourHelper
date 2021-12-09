@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "borg.locutus.chatcolourhelper.version_specific",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.chatcolourhelper.refmap.json",
+  "minVersion": "0.7",
+  "mixins": [
+    "ChatScreenMixin"
+  ]
+}
